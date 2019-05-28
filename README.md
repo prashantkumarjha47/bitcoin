@@ -36,4 +36,4 @@ Your app is ready to be deployed!
 
 ## Demo Link:
 
-- [netlify](https://xenodochial-blackwell-2a3f5a.netlify.com) - View library for building user interfaces
+- [netlify](https://xenodochial-blackwell-2a3f5a.netlify.com) - Netlify link
