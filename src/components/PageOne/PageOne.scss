@@ -1,0 +1,33 @@
+.page-one{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .ant-row{
+        margin: 0;
+    }
+    .page-input{
+        
+        .ant-input{
+            height: 50px;
+        }
+    }
+    .box-content{
+        padding: 25px 35px;
+        background: #ffffff;
+        border-radius: 10px;
+        max-width: 500px;
+        width:100%;
+    }
+    .page-button{
+        width: 100%;
+        padding: 25px 0 0;
+        .ant-btn {
+            height: 40px;
+            min-width: 100px;
+            font-size: 18px;
+        
+        }
+    }
+}
